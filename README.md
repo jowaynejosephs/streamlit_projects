@@ -1,5 +1,5 @@
-#Projects to learn streamlit
-#Installation
--Clone repo
--pip install pandas, streamlit
+#Projects to learn streamlit<br>
+#Installation<br><hr>
+-Clone repo<br>
+-pip install pandas, streamlit<br>
 -streamlit run file.py
